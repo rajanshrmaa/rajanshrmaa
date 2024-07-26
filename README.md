@@ -9,6 +9,7 @@ Fun fact: Despite my shy and introverted nature, I can explain anything without 
 Let's connect and learn together!
 ⚡
 
+Resume ->> ![image](https://github.com/user-attachments/assets/7ecf8f98-05eb-4b15-92cd-e9f2fc48dc1b)
 
 Rajansharma05 old account
 <!---
