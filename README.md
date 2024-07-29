@@ -33,8 +33,8 @@ I am a passionate **Java Fullstack Developer** with a strong foundation in both 
 
 <details>
   <summary><h4> <img align="center" src="https://github.com/rajanshrmaa/rajanshrmaa/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
-  - **[Your Role]** at [Company] | [Duration]
-    - [Work Description]
+  - **ASE** at Mphasis | 1 year
+    - Trained on as a Fullstack Java Developer.
 </details>
 </details>
 
@@ -82,11 +82,13 @@ I am a passionate **Java Fullstack Developer** with a strong foundation in both 
 </div>
 
 <details>
-  <summary><h2> <img align="center" src="https://github.com/rajanshrmaa/rajanshrmaa/blob/main/icons/contact.gif" width="37"/> Contact Me</h2></summary>
+  <summary><h2> <img align="center" src="![image](https://github.com/user-attachments/assets/84a0de68-f65f-415d-bb4e-d0f29d9df28e)
+" width="37"/> Contact Me</h2></summary>
   <p>
     <i>You can reach out to me via</i>
     <a href="mailto:rajans8889@gmail.com">
-      <img align="center" src="https://github.com/rajanshrmaa/rajanshrmaa/blob/main/icons/Gmail.gif" width="100"/>
+      <img align="center" src="![image](https://github.com/user-attachments/assets/359ec665-1190-40ae-9305-31790d75d270)
+" width="100"/>
     </a>
   </p>
 </details>
