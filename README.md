@@ -1,99 +1,48 @@
-<h1 align="center">Hi <img src="https://github.com/rajanshrmaa/rajanshrmaa/blob/main/icons/Hi.gif" width="28px"/>, I'm Rajan Sharma</h1>
+<h1 align="center">Hi 👋, I'm Rajan Sharma</h1>
+<h3 align="center">A passionate Java Full Stack Developer from India</h3>
 
-<h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajanshrmaa&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
-  Java Fullstack Developer
-  <a href="https://github.com/rajanshrmaa">
-    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
-  </a>
-</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajanshrmaa&label=Profile%20views&color=0e75b6&style=flat" alt="rajanshrmaa" /> </p>
 
-<div align="center">
- <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
-</div>
+- 🔭 I’m currently working on [Java Spring Boot and Angular Projects](https://github.com/rajanshrmaa?tab=repositories)
 
-## <img align="center" src="https://github.com/rajanshrmaa/rajanshrmaa/blob/main/icons/about.png" width="37" /> About Me
+- 🌱 I’m currently learning **Microservices, Kubernetes, and Advanced Angular**
 
-Greetings! 👋 I'm Rajan Sharma, a dedicated and results-driven ASE trained on Java with 1 year of hands-on experience in crafting robust and scalable web applications. My journey in the dynamic field of technology has been marked by continuous learning and a commitment to delivering high-quality solutions.
+- 👨‍💻 All of my projects are available at [https://github.com/rajanshrmaa?tab=repositories](https://github.com/rajanshrmaa?tab=repositories)
 
-I am a passionate **Java Fullstack Developer** with a strong foundation in both frontend and backend technologies. A versatile developer specializing in **Java, Spring Boot**, **AI & ML**, and **Chatbot Development** with a passion for continuous learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
+- 📝 I regularly write articles on [https://medium.com/@rajans8889](https://medium.com/@rajans8889)
 
-<details>
- <summary>
-    <h2> 
-      <img align="center" src="https://github.com/rajanshrmaa/rajanshrmaa/blob/main/icons/about.png" width="37" /> 
-    Resume
-    </h2>
-</summary>
+- 💬 Ask me about **Java, Spring Boot, Angular, and RESTful APIs**
 
-<details>
-  <summary><h4><img align="center" src="https://image.flaticon.com/icons/png/512/149/149062.png" width="29"/> Academics</h4></summary>
-  <span><img src="https://img.shields.io/badge/BTECH-GLA%20UNIVERSITY-1877F2?style=for-the-badge"></span>
-</details>
+- 📫 How to reach me **rajans8889@gmail.com**
 
-<details>
-  <summary><h4> <img align="center" src="https://image.flaticon.com/icons/png/512/1041/1041885.png" width="29"/> Experience</h4></summary>
-  - **[Your Role]** at [Company] | [Duration]
-    - [Work Description]
-</details>
-</details>
+- 📄 Know about my experiences [Resume](https://github.com/rajanshrmaa/rajanshrmaa/blob/main/Resume%202.png)
 
-<details>
-  <summary><h4> <img align="center" src="https://image.flaticon.com/icons/png/512/4290/4290854.png" width="29"/> Coding Handles</h4></summary>
-  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/rajanshrmaa/)
-  [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/[your-handle])
-  [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/[your-handle]/practice)
-</details>
+- ⚡ Fun fact **I love solving coding challenges on LeetCode and HackerRank**
 
-<details>
-  <summary><h4> <img align="center" src="https://image.flaticon.com/icons/png/512/1006/1006555.png" width="29"/> Tech Stack</h4></summary>
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-</details>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rajanshrmaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="rajanshrmaa" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12345678" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackoverflow.svg" alt="12345678" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Rajansharma05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="Rajansharma05" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/rajanshrmaa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="u/rajanshrmaa" height="30" width="40" /></a>
+<a href="https://medium.com/@rajans8889" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/medium.svg" alt="@rajans8889" height="30" width="40" /></a>
+</p>
 
-<details>
-  <summary><h4> <img align="center" src="https://image.flaticon.com/icons/png/512/2554/2554367.png" width="29"/> Projects</h4></summary>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+<a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.jetbrains.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="40" height="40"/> </a> 
+</p>
 
-  #### <a href="https://github.com/[YourUsername]/[Project-Name]">[Project Name]</a>
-  <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></span>
-  - Implemented features to notify users about new opportunities.
-  - Achieved a user base of X, surpassing initial projections.
-</details>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajanshrmaa&show_icons=true&locale=en&layout=compact" alt="rajanshrmaa" /></p>
 
-<details>
-  <summary><h2> <img align="center" src="https://image.flaticon.com/icons/png/512/1467/1467088.png" width="32"/> Stats</h2></summary>
-  <div align="center">
-    ![](https://github-readme-stats.vercel.app/api?username=rajanshrmaa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=rajanshrmaa&theme=tokyonight&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajanshrmaa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-    ![](https://github-readme-activity-graph.vercel.app/graph?username=rajanshrmaa&theme=tokyo-night)
-  </div>
-</details>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajanshrmaa&show_icons=true&locale=en" alt="rajanshrmaa" /></p>
 
-### Leetcode
-<div align="center">
-  ![LeetCode Stats](https://leetcode.com/u/rajanshrmaa/)
-</div>
-
-### Hackerrank
-<div align="center">
-  ![Hackerrank Stats](https://www.hackerrank.com/profile/Rajansharma05)
-</div>
-
-<details>
-  <summary><h2> <img align="center" src="https://image.flaticon.com/icons/png/512/561/561127.png" width="37"/> Contact Me</h2></summary>
-  <p>
-    <i>You can reach out to me via</i>
-    <a href="mailto:rajans8889@gmail.com">
-      <img align="center" src="https://image.flaticon.com/icons/png/512/281/281769.png" width="100"/>
-    </a>
-  </p>
-</details>
-
-<details>
-  <summary>Click to see a random joke</summary>
-  <div align="center">
-    ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
-  </div>
-</details>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajanshrmaa&" alt="rajanshrmaa" /></p>
