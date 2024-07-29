@@ -9,10 +9,10 @@
 </h2>
 
 <div align="center">
- <img alt="GIF" src="<iframe src="https://giphy.com/embed/fX5cZemSfX1cMZYuUJ" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sesamestreet-sesame-street-elmo-fX5cZemSfX1cMZYuUJ">via GIPHY</a></p>" />
+ <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
 </div>
 
-## <img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
+## <img align="center" src="https://github.com/rajanshrmaa/rajanshrmaa/blob/main/icons/about.png" width="37" /> About Me
 
 Greetings! 👋 I'm Rajan Sharma, a dedicated and results-driven ASE trained on Java with 1 year of hands-on experience in crafting robust and scalable web applications. My journey in the dynamic field of technology has been marked by continuous learning and a commitment to delivering high-quality solutions.
 
@@ -27,33 +27,33 @@ I am a passionate **Java Fullstack Developer** with a strong foundation in both 
 </summary>
 
 <details>
-  <summary><h4><img align="center" src="https://github.com/rajanshrmaa/rajanshrmaa/blob/main/icons/education.png" width="29"/> Academics</h4></summary>
+  <summary><h4><img align="center" src="https://image.flaticon.com/icons/png/512/149/149062.png" width="29"/> Academics</h4></summary>
   <span><img src="https://img.shields.io/badge/BTECH-GLA%20UNIVERSITY-1877F2?style=for-the-badge"></span>
 </details>
 
 <details>
-  <summary><h4> <img align="center" src="https://github.com/rajanshrmaa/rajanshrmaa/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
-  - **ASE** at Mphasis | 1 year
-    - Trained on as a Fullstack Java Developer.
+  <summary><h4> <img align="center" src="https://image.flaticon.com/icons/png/512/1041/1041885.png" width="29"/> Experience</h4></summary>
+  - **[Your Role]** at [Company] | [Duration]
+    - [Work Description]
 </details>
 </details>
 
 <details>
-  <summary><h4> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="29"/> Coding Handles</h4></summary>
+  <summary><h4> <img align="center" src="https://image.flaticon.com/icons/png/512/4290/4290854.png" width="29"/> Coding Handles</h4></summary>
   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/rajanshrmaa/)
   [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/[your-handle])
   [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/[your-handle]/practice)
 </details>
 
 <details>
-  <summary><h4> <img align="center" src="https://github.com/rajanshrmaa/rajanshrmaa/blob/main/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
+  <summary><h4> <img align="center" src="https://image.flaticon.com/icons/png/512/1006/1006555.png" width="29"/> Tech Stack</h4></summary>
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 </details>
 
 <details>
-  <summary><h4> <img align="center" src="https://github.com/rajanshrmaa/rajanshrmaa/blob/main/icons/projects.gif" width="29"/> Projects</h4></summary>
+  <summary><h4> <img align="center" src="https://image.flaticon.com/icons/png/512/2554/2554367.png" width="29"/> Projects</h4></summary>
 
   #### <a href="https://github.com/[YourUsername]/[Project-Name]">[Project Name]</a>
   <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></span>
@@ -62,7 +62,7 @@ I am a passionate **Java Fullstack Developer** with a strong foundation in both 
 </details>
 
 <details>
-  <summary><h2> <img align="center" src="https://github.com/rajanshrmaa/rajanshrmaa/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
+  <summary><h2> <img align="center" src="https://image.flaticon.com/icons/png/512/1467/1467088.png" width="32"/> Stats</h2></summary>
   <div align="center">
     ![](https://github-readme-stats.vercel.app/api?username=rajanshrmaa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
     ![](https://github-readme-streak-stats.herokuapp.com/?user=rajanshrmaa&theme=tokyonight&hide_border=false)<br/>
@@ -73,7 +73,7 @@ I am a passionate **Java Fullstack Developer** with a strong foundation in both 
 
 ### Leetcode
 <div align="center">
-  ![LeetCode Stats](https://cdn-icons-mp4.flaticon.com/512/8948/8948336.mp4)
+  ![LeetCode Stats](https://leetcode.com/u/rajanshrmaa/)
 </div>
 
 ### Hackerrank
@@ -82,13 +82,11 @@ I am a passionate **Java Fullstack Developer** with a strong foundation in both 
 </div>
 
 <details>
-  <summary><h2> <img align="center" src="![image](https://github.com/user-attachments/assets/84a0de68-f65f-415d-bb4e-d0f29d9df28e)
-" width="37"/> Contact Me</h2></summary>
+  <summary><h2> <img align="center" src="https://image.flaticon.com/icons/png/512/561/561127.png" width="37"/> Contact Me</h2></summary>
   <p>
     <i>You can reach out to me via</i>
     <a href="mailto:rajans8889@gmail.com">
-      <img align="center" src="![image](https://github.com/user-attachments/assets/359ec665-1190-40ae-9305-31790d75d270)
-" width="100"/>
+      <img align="center" src="https://image.flaticon.com/icons/png/512/281/281769.png" width="100"/>
     </a>
   </p>
 </details>
@@ -99,4 +97,3 @@ I am a passionate **Java Fullstack Developer** with a strong foundation in both 
     ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
   </div>
 </details>
-
