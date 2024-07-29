@@ -73,7 +73,7 @@ I am a passionate **Java Fullstack Developer** with a strong foundation in both 
 
 ### Leetcode
 <div align="center">
-  ![LeetCode Stats](https://leetcode.com/u/rajanshrmaa/)
+  ![LeetCode Stats](https://cdn-icons-mp4.flaticon.com/512/8948/8948336.mp4)
 </div>
 
 ### Hackerrank
