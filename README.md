@@ -40,6 +40,14 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
 </a>
+<a href="https://www.ibm.com/docs/en/zos-basic-skills?topic=zos-jcl" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="JCL" width="40" height="40"/>
+</a>
+<a href="https://www.ibm.com/docs/en/cobol-zos/6.3?topic=languages-cobol" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/COBOL_logo.svg" alt="COBOL" width="40" height="40"/>
+</a>
+
+
 
 <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
