@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajanshrmaa&label=Profile%20views&color=0e75b6&style=flat" alt="rajanshrmaa" /> </p>
 
-- 🔭 I’m currently working on Mainframe and [optionally Java Spring Boot and Angular Projects](https://github.com/rajanshrmaa?tab=repositories)
+- 🔭 I’m currently working on Java, SpringBoot and Mainframe (https://github.com/rajanshrmaa?tab=repositories)
 
 - 🌱 I’m currently learning **AI&ML, WEB-DEV, Mainframe**
 
