@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [Resume](https://github.com/rajanshrmaa/rajanshrmaa/blob/main/Resume%202.png)
 
-- ⚡ Fun fact **I love solving coding challenges on LeetCode and HackerRank**
+- ⚡I love solving coding challenges on LeetCode and HackerRank**
 
 <h3 align="left">**Connect with me**:</h3>
 <p align="left">
