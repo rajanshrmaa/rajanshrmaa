@@ -1,75 +1,239 @@
 <h1 align="center">Hi 👋, I'm Rajan Sharma</h1>
-<h3 align="center">A passionate Java Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajanshrmaa&label=Profile%20views&color=0e75b6&style=flat" alt="rajanshrmaa" /> </p>
+<h3 align="center">
+🚀 Backend Engineer | Java | Spring Boot | Microservices | Angular | Mainframe
+</h3>
 
-- 🔭 I’m currently working on Java, SpringBoot and Mainframe (https://github.com/rajanshrmaa?tab=repositories)
+<p align="center">
+Backend Engineer with 3 years of experience building scalable enterprise applications and hands-on experience in frontend development.
+</p>
 
-- 🌱 I’m currently learning **AI&ML, WEB-DEV, Mainframe**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajanshrmaa&label=Profile%20Views&color=blue&style=for-the-badge" alt="views"/>
+</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/rajanshrmaa?tab=repositories](https://github.com/rajanshrmaa?tab=repositories)
+---
 
-- 💬 Ask me about **Java, Spring Boot, Angular, and RESTful APIs**
+# 👨‍💻 About Me
 
-- 📫 How to reach me **rajans8889@gmail.com**
+* 💼 Backend Engineer with **3 years of experience** in enterprise application development
+* ☕ Specialized in **Java, Spring Boot, REST APIs, Microservices & Distributed Systems**
+* 🎨 Hands-on experience with **Angular, TypeScript, HTML, CSS & Bootstrap**
+* 🖥️ Experienced in **Mainframe Technologies (COBOL, JCL, DB2)**
+* 🤖 Currently exploring **AI, ML, Apache Flink & Cloud Technologies**
+* 🧩 Passionate about Problem Solving, System Design & Software Architecture
+* ⚡ Active on LeetCode and HackerRank
 
-- 📄 Know about my experiences [Resume](https://github.com/rajanshrmaa/rajanshrmaa/blob/main/Resume%202.png)
+---
 
-- ⚡I love solving coding challenges on LeetCode and HackerRank**
+# 🌟 Featured Projects
 
-<h3 align="left">**Connect with me**:</h3>
+### 💳 Credit Card Management System
+
+* Spring Boot Microservices Architecture
+* User Registration & Authentication
+* Credit Card Issuance & Management
+* Transaction Processing APIs
+* JWT Security & REST APIs
+
+### 🏦 Bank Management System
+
+* Full Stack Application using Java Spring Boot & Angular
+* Account Creation & User Management
+* Deposit, Withdrawal & Balance Inquiry
+* MySQL Database Integration
+* RESTful APIs
+
+### 🔗 Microservices Project
+
+* Service Discovery
+* API Gateway
+* Inter-Service Communication
+* Centralized Configuration
+* Distributed Architecture
+
+### 🖥️ Mainframe Banking Applications
+
+* COBOL Programs
+* JCL Processing
+* DB2 Database Operations
+* Batch Job Processing
+* Banking Business Logic Implementation
+
+---
+
+# 🌐 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/rajanshrmaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="rajanshrmaa" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/Rajansharma05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="Rajansharma05" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/rajanshrmaa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="u/rajanshrmaa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rajanshrmaa">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://github.com/rajanshrmaa">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="https://leetcode.com/u/rajanshrmaa/">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="45"/>
+</a>
+<a href="https://www.hackerrank.com/profile/Rajansharma05">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" width="45"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-<a href="https://angular.io" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> 
-</a> 
-<a href="https://www.typescriptlang.org/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-</a>
-<a href="https://www.ibm.com/docs/en/zos-basic-skills?topic=zos-jcl" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="JCL" width="40" height="40"/>
-</a>
-<a href="https://www.ibm.com/docs/en/cobol-zos/6.3?topic=languages-cobol" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/COBOL_logo.svg" alt="COBOL" width="40" height="40"/>
-</a>
+📧 **Email:** [rajans8889@gmail.com](mailto:rajans8889@gmail.com)
 
+📄 **Resume:** https://github.com/rajanshrmaa/rajanshrmaa/blob/main/Resume%202.png
 
+---
 
-<a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
-<!-- <a href="https://kubernetes.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a> -->
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<!--<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>-->
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<!--<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> -->
-<a href="https://www.jetbrains.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="40" height="40"/> </a> 
-<a href="https://maven.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="maven" width="40" height="40"/> </a>
-<a href="https://junit.org/junit5/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit5-original.svg" alt="junit" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/> </a>
+# 🛠️ Technical Skills
+
+## ☕ Backend Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=spring" />
+<img src="https://skillicons.dev/icons?i=maven" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajanshrmaa&show_icons=true&locale=en&layout=compact" alt="rajanshrmaa" /></p>
+Java • Spring Boot • Hibernate • JPA • REST APIs • Microservices • JUnit
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajanshrmaa&show_icons=true&locale=en" alt="rajanshrmaa" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajanshrmaa&" alt="rajanshrmaa" /></p>
+## 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=angular" />
+<img src="https://skillicons.dev/icons?i=typescript" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=bootstrap" />
+</p>
+
+Angular • TypeScript • JavaScript • HTML5 • CSS3 • Bootstrap
+
+---
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+MySQL • MongoDB • SQL • DBMS
+
+---
+
+## ⚙️ DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=jenkins" />
+<img src="https://skillicons.dev/icons?i=postman" />
+<img src="https://skillicons.dev/icons?i=idea" />
+</p>
+
+Git • GitHub • Docker • Jenkins • Postman • IntelliJ IDEA
+
+---
+
+## 🖥️ Mainframe Technologies
+
+<p>
+<img src="https://img.shields.io/badge/COBOL-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+<img src="https://img.shields.io/badge/JCL-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
+<img src="https://img.shields.io/badge/DB2-0033A0?style=for-the-badge&logo=ibm&logoColor=white"/>
+<img src="https://img.shields.io/badge/TSO%2FISPF-0066CC?style=for-the-badge&logo=ibm&logoColor=white"/>
+</p>
+
+COBOL • JCL • DB2 • TSO/ISPF • QMF • SPUFI
+
+---
+
+## 🤖 Emerging Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+Artificial Intelligence • Machine Learning • Apache Flink
+
+---
+
+# 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rajanshrmaa\&theme=tokyonight\&row=1\&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rajanshrmaa&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajanshrmaa&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajanshrmaa&theme=tokyonight"/>
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajanshrmaa\&theme=tokyo-night)
+
+---
+
+# 🧩 Coding Profiles
+
+## LeetCode
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/rajanshrmaa)
+
+---
+
+## HackerRank
+
+⭐ Problem Solving
+
+⭐ Java
+
+⭐ SQL
+
+⭐ REST APIs
+
+---
+
+# 🏆 Professional Highlights
+
+✅ 3 Years of Software Development Experience
+
+✅ Backend Engineering Expertise
+
+✅ Spring Boot & Microservices Development
+
+✅ Angular Frontend Development
+
+✅ Mainframe Banking Applications
+
+✅ CI/CD with Jenkins
+
+✅ Database Design & Optimization
+
+✅ REST API Development
+
+✅ Problem Solving & DSA
+
+---
+
+<h3 align="center">
+💡 Building scalable backend systems and modern web applications.
+</h3>
