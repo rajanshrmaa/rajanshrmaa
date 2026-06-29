@@ -81,7 +81,7 @@ Backend Engineer with 3 years of experience building scalable enterprise applica
 
 📧 **Email:** [rajans8889@gmail.com](mailto:rajans8889@gmail.com)
 
-📄 **Resume:** https://github.com/rajanshrmaa/rajanshrmaa/blob/main/Resume%202.png
+📄 **Resume:** (https://docs.google.com/document/d/1r6y2jzj8425FhOgNskoX5IXhaJGSEVLa4JmWvPsAloM/edit?usp=sharing)
 
 ---
 
